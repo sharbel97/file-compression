@@ -1,5 +1,4 @@
 //
-// Template: UIC
 // Author: Sharbel Homa
 #include <iostream>
 #include <string>
